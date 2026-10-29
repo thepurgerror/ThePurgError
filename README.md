@@ -1,24 +1,29 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:101820,50:16324F,100:00D9FF&text=THEPURGERROR&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=HARISH%20C.%20%2F%20DEVELOPER%20%2F%20CREATOR&descSize=13&descAlignY=62" width="100%" alt="ThePurgError banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:0D1117,100:123B52&text=ThePurgError&fontColor=E6F7FF&fontSize=42&fontAlignY=43&desc=HARISH%20C.%20%7C%20DEVELOPER%20IN%20PROGRESS&descSize=12&descAlignY=72" width="100%" alt="ThePurgError header"/>
 
-**Harish C.** · Student Developer · Minecraft PvP Creator
+**Student Developer · AI Explorer · Minecraft PvP Creator**
 
-*Building software. Exploring AI. Creating beyond the screen.*
+*Building things. Learning constantly.*
 
-<a href="https://github.com/thepurgerror?tab=repositories">Projects</a> · <a href="https://airoq1.web.app/">AIROQ</a> · <a href="https://thepurgerror.netlify.app/">PurgeOS</a>
+[**Projects**](https://github.com/thepurgerror?tab=repositories) · [**LinkedIn**](https://www.linkedin.com/in/harish-chandrasek/) · [**YouTube**](https://www.youtube.com/@ThePurgError)
 
 </div>
 
-### About
+---
 
-Interested in software development, applied AI, and product design. I build web applications and tools while creating Minecraft PvP content focused on Bedwars, Bedfight, and UHC.
+### `01 / What I Do`
 
-### Tech Stack
+Exploring software development and applied AI through practical projects — from web applications to AI-powered study tools.
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,firebase,git,github,vscode" alt="Python, HTML, CSS, JavaScript, Firebase, Git, GitHub, VS Code"/>
+### `02 / Featured`
 
-### Connect
+| Project | Description |
+|:--|:--|
+| [**AIROQ**](https://airoq1.web.app/) | AI-powered JEE study assistant |
+| [**PurgeOS**](https://thepurgerror.netlify.app/) | Web-based project |
 
-[GitHub](https://github.com/thepurgerror) · [YouTube](https://www.youtube.com/@ThePurgError)
+### `03 / Toolkit`
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,firebase,git,github&theme=dark" alt="Python, HTML, CSS, JavaScript, Firebase, Git and GitHub"/>
 
