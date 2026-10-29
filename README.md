@@ -1,34 +1,22 @@
 <div align="center">
 
-<img src="purgerror-banner.svg" width="100%" alt="ThePurgError — Software, AI, Minecraft PvP" />
+# HARISH C.
 
-Harish C. · I build web tools, experiment with AI, and create Minecraft PvP content.
+**STUDENT DEVELOPER** · SOFTWARE · APPLIED AI
 
-REPOSITORIES   /   LINKEDIN   /   YOUTUBE
+Building useful web experiences, exploring AI, and learning by shipping real projects.
+
+<a href="https://www.linkedin.com/in/harish-chandrasek/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@ThePurgError"><img src="https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://github.com/thepurgerror?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-⚡ AIROQ
-Multi-model AI workbench
+<p align="center">
+  <strong>TOOLS I USE</strong><br /><br />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,firebase,git,github,vscode&theme=dark" alt="Python, HTML, CSS, JavaScript, Firebase, Git, GitHub, and VS Code" />
+</p>
 
-Research, conversations, and PDF analysis in one place.
-
-Launch AIROQ ↗
-</td>
-<td width="50%" valign="top">
-
-🎮 PurgeOS
-Minecraft creator dashboard
-
-A terminal-inspired home for PvP content and channel discovery.
-
-Explore PurgeOS ↗
-</td>
-</tr>
-</table>
-
-
-BUILT WITH   <img src="https://skillicons.dev/icons?i=python,html,css,js,firebase,git&theme=dark" height="25" alt="Python, HTML, CSS, JavaScript, Firebase, Git" />
+<p align="center"><sub>Also creating Minecraft PvP content as ThePurgError.</sub></p>
