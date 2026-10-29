@@ -1,29 +1,34 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:0D1117,100:123B52&text=ThePurgError&fontColor=E6F7FF&fontSize=42&fontAlignY=43&desc=HARISH%20C.%20%7C%20DEVELOPER%20IN%20PROGRESS&descSize=12&descAlignY=72" width="100%" alt="ThePurgError header"/>
+<img src="purgerror-banner.svg" width="100%" alt="ThePurgError — Software, AI, Minecraft PvP" />
 
-**Student Developer · AI Explorer · Minecraft PvP Creator**
+Harish C. · I build web tools, experiment with AI, and create Minecraft PvP content.
 
-*Building things. Learning constantly.*
-
-[**Projects**](https://github.com/thepurgerror?tab=repositories) · [**LinkedIn**](https://www.linkedin.com/in/harish-chandrasek/) · [**YouTube**](https://www.youtube.com/@ThePurgError)
-
+REPOSITORIES   /   LINKEDIN   /   YOUTUBE
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### `01 / What I Do`
+⚡ AIROQ
+Multi-model AI workbench
 
-Exploring software development and applied AI through practical projects — from web applications to AI-powered study tools.
+Research, conversations, and PDF analysis in one place.
 
-### `02 / Featured`
+Launch AIROQ ↗
+</td>
+<td width="50%" valign="top">
 
-| Project | Description |
-|:--|:--|
-| [**AIROQ**](https://airoq1.web.app/) | AI-powered JEE study assistant |
-| [**PurgeOS**](https://thepurgerror.netlify.app/) | Web-based project |
+🎮 PurgeOS
+Minecraft creator dashboard
 
-### `03 / Toolkit`
+A terminal-inspired home for PvP content and channel discovery.
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,firebase,git,github&theme=dark" alt="Python, HTML, CSS, JavaScript, Firebase, Git and GitHub"/>
+Explore PurgeOS ↗
+</td>
+</tr>
+</table>
 
+
+BUILT WITH   <img src="https://skillicons.dev/icons?i=python,html,css,js,firebase,git&theme=dark" height="25" alt="Python, HTML, CSS, JavaScript, Firebase, Git" />
